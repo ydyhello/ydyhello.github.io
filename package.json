@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "hexo": "^7.0.0",
+    "hexo-asset-image": "^1.0.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
     "hexo-generator-index": "^3.0.0",
@@ -23,7 +24,7 @@
     "hexo-renderer-stylus": "^3.0.0",
     "hexo-server": "^3.0.0",
     "hexo-tag-aplayer": "^3.0.4",
-    "hexo-tag-dplayer": "^0.1.9",
+    "hexo-tag-dplayer": "^0.1.6",
     "hexo-theme-landscape": "^1.0.0"
   }
 }
