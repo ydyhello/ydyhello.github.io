@@ -3,7 +3,7 @@ title: 自定义算子：复现CPU版本的二维卷积
 date: 2024-01-19 18:35:07
 tags:
 categories:
-    - 学习
+    - Pytorch算子
 ---
 
 
