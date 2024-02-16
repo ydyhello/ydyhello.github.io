@@ -6,7 +6,7 @@ categories:
     - Pytorch算子
 ---
 > MiniTorch是对 torch api的纯Python重新实现，设计简单、易于阅读、容易进行测试和扩充。miniTorch最终的库可以运行Torch代码。
-
+<!--more-->
 Mycode:
 
 - [module0](https://github.com/ydyhello/minitorch-module-0-ydyhello)

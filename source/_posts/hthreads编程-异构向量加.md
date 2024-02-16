@@ -5,6 +5,11 @@ tags:
 categories:
     - HPC
 ---
+Github: 
+- [向量加](https://github.com/ydyhello/studydemo/tree/main/add_test)
+- [向量复制](https://github.com/ydyhello/studydemo/tree/main/copy_test)
+<!--more-->
+
 ## 熟悉mt3000编程环境目录结构
 
 ```

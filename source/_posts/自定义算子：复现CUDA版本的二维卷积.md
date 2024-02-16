@@ -5,7 +5,8 @@ tags:
 categories:
     - Pytorch算子
 ---
-
+PyTorch卷积の实现(CUDA)
+<!--more-->
 参考链接：[知乎](https://zhuanlan.zhihu.com/p/541302472)
 
 ## **搭建项目**
@@ -17,6 +18,8 @@ Windows环境
 提前安装:
 - NVIDIA GPU Computing Toolkit
 - `pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117`
+
+
 
 ## 编译
 运行`python setup.py develop`，就能一键编译和安装。如果运行后没有报编译错误，就可以把实现的卷积用起来了
