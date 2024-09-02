@@ -6,7 +6,11 @@ categories:
     - opencv
 ---
 
+<!--more-->
+
 - Haar人脸识别方法
+
+
 
 ```python
 import cv2
