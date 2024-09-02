@@ -6,6 +6,8 @@ categories:
     - opencv
 ---
 
+harr识别
+
 <!--more-->
 
 - Haar人脸识别方法
